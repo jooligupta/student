@@ -2,7 +2,7 @@
     font-style: italic;
   }
   .navbar, .footer,.doubleBg{
-    background:hsl(168, 61%, 24%)!important;
+    background:hsla(231, 100%, 46%, 0.253)!important;
   }
   .logoText{
     background: linear-gradient(
